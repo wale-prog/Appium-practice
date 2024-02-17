@@ -1,0 +1,19 @@
+[INFO ] 2024-02-17 10:45:39.940 [main] TestBase - The driver has been created
+[INFO ] 2024-02-17 10:45:39.947 [main] TestBase - Test is starting
+[INFO ] 2024-02-17 10:45:39.980 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-17 10:46:00.064 [main] TestBase - Test is ending
+[INFO ] 2024-02-17 10:48:10.674 [main] TestBase - The driver has been created
+[INFO ] 2024-02-17 10:48:10.698 [main] TestBase - Test is starting
+[INFO ] 2024-02-17 10:48:10.818 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-17 10:48:30.920 [main] TestBase - Test is ending
+[ERROR] 2024-02-17 10:50:45.143 [main] TestBase - An error occurred creating the driver
+[INFO ] 2024-02-17 10:50:45.189 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-17 10:51:05.198 [main] TestBase - Test is ending
+[ERROR] 2024-02-17 10:54:50.242 [main] TestBase - An error occurred creating the driver
+[INFO ] 2024-02-17 10:54:50.315 [main] TestBase - Test is ending
+[ERROR] 2024-02-17 11:04:04.648 [main] TestBase - An error occurred creating the driver
+[INFO ] 2024-02-17 11:04:04.712 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-17 11:04:04.756 [main] TestBase - Test is ending
+[ERROR] 2024-02-17 11:05:18.549 [main] TestBase - An error occurred creating the driver
+[INFO ] 2024-02-17 11:05:18.604 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-17 11:05:18.632 [main] TestBase - Test is ending
