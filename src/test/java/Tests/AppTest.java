@@ -14,6 +14,8 @@ public class AppTest extends TestBase {
     public void validateAppLaunch() {
         log.info("Inside AppTest");
         ApiDemoPage apiDemoPage = new ApiDemoPage(driver);
+        validateAttribute(apiDemoPage.getAccessibilityLink(), "displayed", true);
+
         apiDemoPage.clickViewLink();
 //        scrollToEnd("down");
 //        scrollToText("Tabs");

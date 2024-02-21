@@ -15,12 +15,17 @@ public class ApiDemoPage extends PageBase {
     private WebElement viewLink;
     @AndroidFindBy(accessibility = "Gallery")
     private WebElement galleryElement;
+    @AndroidFindBy(accessibility = "Accessibility")
+    private WebElement accessibilityLink;
 
     public void clickViewLink() {
         click(viewLink);
     }
     public WebElement getGalleryElement() {
         return galleryElement;
+    }
+    public WebElement getAccessibilityLink() {
+       return accessibilityLink;
     }
 
 }
