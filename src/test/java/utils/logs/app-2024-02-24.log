@@ -1,0 +1,19 @@
+[INFO ] 2024-02-24 11:34:37.539 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-24 11:34:37.741 [main] TestBase - The test is running on the local appium server
+[INFO ] 2024-02-24 11:34:55.103 [main] TestBase - The driver has been created
+[INFO ] 2024-02-24 11:34:55.725 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-24 11:34:57.739 [main] TestBase - Test is ending
+[INFO ] 2024-02-24 11:37:19.060 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-24 11:37:19.219 [main] TestBase - The test is running on the local appium server
+[INFO ] 2024-02-24 11:37:32.632 [main] TestBase - The driver has been created
+[INFO ] 2024-02-24 11:37:33.317 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-24 11:38:09.733 [main] TestBase - Test is ending
+[INFO ] 2024-02-24 12:59:37.136 [main] Log - Process is onStart methodApi Demo
+[INFO ] 2024-02-24 12:59:37.317 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-24 12:59:37.397 [main] TestBase - The test is running on the local appium server
+[INFO ] 2024-02-24 12:59:53.537 [main] TestBase - The driver has been created
+[INFO ] 2024-02-24 12:59:53.571 [main] Log - validateAppLaunchtest is starting...
+[INFO ] 2024-02-24 12:59:54.243 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-24 13:00:24.317 [main] Log - validateAppLaunch test has succeeded.
+[INFO ] 2024-02-24 13:00:24.343 [main] TestBase - Test is ending
+[INFO ] 2024-02-24 13:00:25.212 [main] Log - Process is onFinish methodApi Demo

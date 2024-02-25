@@ -1,0 +1,106 @@
+[INFO ] 2024-02-21 17:22:48.951 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 17:22:48.967 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 17:22:48.983 [main] TestBase - The test is running on Headspin remote server
+[ERROR] 2024-02-21 17:23:29.923 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[ERROR] 2024-02-21 17:25:25.615 [main] Log - The following data plans have changed from 3 N1600/5GB/7days to 3 N1500/5GB/7days
+[ERROR] 2024-02-21 17:26:51.060 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[ERROR] 2024-02-21 17:29:04.005 [main] Log - The following data plans have changed from 3 N700/1GB to 3 N600/1GB
+[INFO ] 2024-02-21 17:30:00.410 [main] TestBase - Tests are ending
+[INFO ] 2024-02-21 17:31:18.215 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 17:31:18.222 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 17:31:18.239 [main] TestBase - The test is running on Headspin remote server
+[ERROR] 2024-02-21 17:31:54.786 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[ERROR] 2024-02-21 17:33:48.993 [main] Log - The following data plans have changed from 3 N1600/5GB/7days to 3 N1500/5GB/7days
+[ERROR] 2024-02-21 17:35:14.159 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[INFO ] 2024-02-21 17:39:49.654 [main] Log - Process is onStart methodMarket Monitor - USSD
+[INFO ] 2024-02-21 17:39:49.732 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 17:39:49.732 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 17:39:49.747 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 17:40:07.702 [main] Log - TC_01_validateFirstDailyPlanPagetest is starting...
+[ERROR] 2024-02-21 17:40:29.490 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[INFO ] 2024-02-21 17:40:34.699 [main] Log - TC_01_validateFirstDailyPlanPage test is skipped
+[INFO ] 2024-02-21 17:40:38.037 [main] Log - TC_01_validateFirstDailyPlanPagetest is starting...
+[ERROR] 2024-02-21 17:40:57.743 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[INFO ] 2024-02-21 17:41:00.989 [main] Log - TC_01_validateFirstDailyPlanPagetest has failed
+[INFO ] 2024-02-21 17:41:05.292 [main] Log - TC_02_validateSecondDailyPlanPagetest is starting...
+[INFO ] 2024-02-21 17:41:26.760 [main] Log - TC_02_validateSecondDailyPlanPage test has succeeded.
+[INFO ] 2024-02-21 17:41:31.557 [main] Log - validateChangedDailyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 17:51:38.814 [main] Log - validateChangedDailyBundlesDepletionRatetest has failed
+[INFO ] 2024-02-21 17:51:38.818 [main] Log - Process is onFinish methodMarket Monitor - USSD
+[INFO ] 2024-02-21 18:25:16.052 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:25:16.060 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:25:16.073 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 18:25:47.782 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:25:47.791 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:25:47.810 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 18:26:43.301 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:26:43.307 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:26:43.331 [main] TestBase - The test is running on Headspin remote server
+[ERROR] 2024-02-21 18:27:29.816 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[ERROR] 2024-02-21 18:29:42.164 [main] Log - The following data plans have changed from 3 N1600/5GB/7days to 3 N1500/5GB/7days
+[ERROR] 2024-02-21 18:31:17.966 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[ERROR] 2024-02-21 18:33:43.084 [main] Log - The following data plans have changed from 3 N700/1GB to 3 N600/1GB
+[INFO ] 2024-02-21 18:34:48.599 [main] TestBase - Tests are ending
+[INFO ] 2024-02-21 18:40:28.828 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:40:28.836 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:40:28.858 [main] TestBase - The test is running on Headspin remote server
+[ERROR] 2024-02-21 18:41:32.739 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[INFO ] 2024-02-21 18:44:07.963 [main] Log - Process is onStart methodMarket Monitor - USSD
+[INFO ] 2024-02-21 18:44:08.062 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:44:08.062 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:44:08.078 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 18:44:24.986 [main] Log - TC_01_validateFirstDailyPlanPagetest is starting...
+[ERROR] 2024-02-21 18:44:52.560 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[INFO ] 2024-02-21 18:45:01.241 [main] Log - TC_01_validateFirstDailyPlanPagetest has failed
+[INFO ] 2024-02-21 18:45:06.169 [main] Log - TC_02_validateSecondDailyPlanPagetest is starting...
+[INFO ] 2024-02-21 18:45:32.160 [main] Log - TC_02_validateSecondDailyPlanPage test has succeeded.
+[INFO ] 2024-02-21 18:45:37.343 [main] Log - validateChangedDailyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 18:46:43.822 [main] Log - validateChangedDailyBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 18:46:49.552 [main] Log - TC_03_validateWeeklyBundlePagetest is starting...
+[ERROR] 2024-02-21 18:47:17.728 [main] Log - The following data plans have changed from 3 N1600/5GB/7days to 3 N1500/5GB/7days
+[INFO ] 2024-02-21 18:47:22.755 [main] Log - TC_03_validateWeeklyBundlePagetest has failed
+[INFO ] 2024-02-21 18:47:27.095 [main] Log - validateChangedWeeklyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 18:48:30.085 [main] Log - validateChangedWeeklyBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 18:48:34.529 [main] Log - TC_04_validateMonthlyBundlePagetest is starting...
+[ERROR] 2024-02-21 18:48:55.428 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[INFO ] 2024-02-21 18:49:03.750 [main] Log - TC_04_validateMonthlyBundlePagetest has failed
+[INFO ] 2024-02-21 18:49:08.631 [main] Log - validateChangedMonthlyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 18:51:00.800 [main] Log - validateChangedMonthlyBundlesDepletionRatetest has failed
+[INFO ] 2024-02-21 18:51:04.319 [main] Log - TC_05_validateSmartBundlePagetest is starting...
+[INFO ] 2024-02-21 18:52:45.837 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:52:45.846 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:52:45.865 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 18:53:49.900 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 18:53:49.908 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 18:53:49.926 [main] TestBase - The test is running on Headspin remote server
+[ERROR] 2024-02-21 18:54:29.261 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[ERROR] 2024-02-21 18:56:46.191 [main] Log - The following data plans have changed from 3 N700/1GB to 3 N600/1GB
+[INFO ] 2024-02-21 18:58:33.003 [main] TestBase - Tests are ending
+[INFO ] 2024-02-21 19:37:28.542 [main] Log - Process is onStart methodMarket Monitor - USSD
+[INFO ] 2024-02-21 19:37:28.637 [main] TestBase - Test is starting
+[INFO ] 2024-02-21 19:37:28.637 [main] TestBase - The test is running remotely on Headspin using SamsungA14
+[INFO ] 2024-02-21 19:37:28.664 [main] TestBase - The test is running on Headspin remote server
+[INFO ] 2024-02-21 19:37:47.926 [main] Log - TC_01_validateFirstDailyPlanPagetest is starting...
+[ERROR] 2024-02-21 19:38:20.762 [main] Log - The following data plans have changed from 2 N200/100MB/Daily to 2 N100/100MB/Daily
+[INFO ] 2024-02-21 19:38:29.084 [main] Log - TC_01_validateFirstDailyPlanPagetest has failed
+[INFO ] 2024-02-21 19:38:34.106 [main] Log - TC_02_validateSecondDailyPlanPagetest is starting...
+[INFO ] 2024-02-21 19:39:01.722 [main] Log - TC_02_validateSecondDailyPlanPage test has succeeded.
+[INFO ] 2024-02-21 19:39:05.926 [main] Log - validateChangedDailyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 19:40:08.650 [main] Log - validateChangedDailyBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 19:40:14.432 [main] Log - TC_03_validateWeeklyBundlePagetest is starting...
+[ERROR] 2024-02-21 19:40:38.768 [main] Log - The following data plans have changed from 3 N1600/5GB/7days to 3 N1500/5GB/7days
+[INFO ] 2024-02-21 19:40:42.632 [main] Log - TC_03_validateWeeklyBundlePagetest has failed
+[INFO ] 2024-02-21 19:40:48.453 [main] Log - validateChangedWeeklyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 19:41:51.041 [main] Log - validateChangedWeeklyBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 19:41:56.859 [main] Log - TC_04_validateMonthlyBundlePagetest is starting...
+[ERROR] 2024-02-21 19:42:18.455 [main] Log - The following data plans have changed from 1 N2000/1.2GB to 1 N1000/1.2GB
+[INFO ] 2024-02-21 19:42:30.867 [main] Log - TC_04_validateMonthlyBundlePagetest has failed
+[INFO ] 2024-02-21 19:42:35.895 [main] Log - validateChangedMonthlyBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 19:43:38.724 [main] Log - validateChangedMonthlyBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 19:43:45.903 [main] Log - TC_05_validateSmartBundlePagetest is starting...
+[ERROR] 2024-02-21 19:44:06.906 [main] Log - The following data plans have changed from 3 N700/1GB to 3 N600/1GB
+[INFO ] 2024-02-21 19:44:12.289 [main] Log - TC_05_validateSmartBundlePagetest has failed
+[INFO ] 2024-02-21 19:44:17.107 [main] Log - validateChangedSmartBundlesDepletionRatetest is starting...
+[INFO ] 2024-02-21 19:45:15.815 [main] Log - validateChangedSmartBundlesDepletionRate test has succeeded.
+[INFO ] 2024-02-21 19:45:23.284 [main] TestBase - Tests are ending
+[INFO ] 2024-02-21 19:45:23.854 [main] Log - Process is onFinish methodMarket Monitor - USSD

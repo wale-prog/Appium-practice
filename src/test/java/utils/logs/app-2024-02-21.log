@@ -1,0 +1,15 @@
+[INFO ] 2024-02-21 16:19:24.853 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-21 16:19:25.051 [main] TestBase - The test is running on the remote appium server
+[ERROR] 2024-02-21 16:19:25.157 [main] TestBase - An error occurred creating the driver
+[INFO ] 2024-02-21 16:19:25.193 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-21 16:19:25.246 [main] TestBase - Test is ending
+[INFO ] 2024-02-21 16:21:16.670 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-21 16:21:16.707 [main] TestBase - The test is running on the local appium server
+[INFO ] 2024-02-21 16:21:41.350 [main] TestBase - The driver has been created
+[INFO ] 2024-02-21 16:21:41.381 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-21 16:22:15.843 [main] TestBase - Test is ending
+[INFO ] 2024-02-21 17:01:20.905 [main] TestBase - The test is running on SamsungA32
+[INFO ] 2024-02-21 17:01:21.090 [main] TestBase - The test is running on the local appium server
+[INFO ] 2024-02-21 17:01:35.936 [main] TestBase - The driver has been created
+[INFO ] 2024-02-21 17:01:36.001 [main] AppTest - Inside AppTest
+[INFO ] 2024-02-21 17:02:03.768 [main] TestBase - Test is ending

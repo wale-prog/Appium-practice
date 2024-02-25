@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Demo test" verbose="2">
+
+    <listeners>
+        <listener class-name="utils.listeners.TestListener"/>
+        <listener class-name="utils.listeners.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="Api Demo" parallel="false">
+        <classes>
+            <class name="Tests.AppTest"/>
+            <class name="Tests.testNG"/>
+        </classes>
+    </test>
+</suite>

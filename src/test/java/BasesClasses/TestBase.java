@@ -23,7 +23,7 @@ import java.util.Properties;
 
 public class TestBase {
     public static DesiredCapabilities caps;
-    public AndroidDriver driver;
+    public static AndroidDriver driver;
     private static Logger log = LogManager.getLogger(TestBase.class);
     String testData_filePath = "src/test/java/TestData.properties";
     Properties testData;
@@ -111,6 +111,7 @@ public class TestBase {
     }
 
     public void validateAttribute(WebElement el, String attribute, boolean value) {
+        el.getAttribute(attribute);
         Assert.assertTrue(Boolean.parseBoolean(el.getAttribute(attribute)) == value);
     }
     public void flingGesture(WebElement el, String direction) {
